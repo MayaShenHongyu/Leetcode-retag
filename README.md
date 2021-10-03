@@ -97,7 +97,7 @@
 
 ## 𐀴 树
 
-#### 遍历
+#### 遍历 done
 
 ###### 简单
 
@@ -113,7 +113,7 @@
 - [103. 二叉树的锯齿形层序遍历](https://leetcode-cn.com/problems/binary-tree-zigzag-level-order-traversal/)
 - [107. 二叉树的层序遍历 II](https://leetcode-cn.com/problems/binary-tree-level-order-traversal-ii/)
 
-#### 构造
+#### 构造 done
 
 ###### 简单
 - [108. 将有序数组转换为二叉搜索树](https://leetcode-cn.com/problems/convert-sorted-array-to-binary-search-tree/)
@@ -125,7 +125,7 @@
 - [889. 根据前序和后序遍历构造二叉树](https://leetcode-cn.com/problems/construct-binary-tree-from-preorder-and-postorder-traversal/)
 - [1008. 前序遍历构造二叉搜索树](https://leetcode-cn.com/problems/construct-binary-search-tree-from-preorder-traversal/)
 
-###### 困难
+###### 困难 -没做
 - [297. 二叉树的序列化与反序列化](https://leetcode-cn.com/problems/serialize-and-deserialize-binary-tree/)
 
 #### 路径 | 深度 | 翻转
